@@ -1,0 +1,76 @@
+{
+  "upstream_commit": "e74b8fc7d8d9e35c3b6bb88af0aef5ea82ee815e",
+  "wheel": "watchfiles-1.3.0-cp310-abi3-win_amd64.whl",
+  "wheel_sha256": "1acabde19b67e673274e89a04d613b7fb1f122e2c4b8ec9a581e59c149264b61",
+  "native_module": "watchfiles/_rust_notify.pyd",
+  "native_module_sha256": "ab938b663eb2ee6274a9aba9d3916f264ef4c01d1bad9c8fc829b19c634d5962",
+  "license_text_matches_after_crlf_normalization": true,
+  "license_byte_matches": false,
+  "python_source_comparisons": [
+    {
+      "path": "watchfiles/__init__.py",
+      "byte_matches": false,
+      "text_matches_after_crlf_normalization": true,
+      "source_sha256": "21194cf4a39279d3331757ef2ebef21073d54be50511135386507eb66588f325",
+      "wheel_sha256": "2ca98301b0db9bbf317f285543e5bfe9359f4f50a0e77354687a8d870bb6a65a"
+    },
+    {
+      "path": "watchfiles/__main__.py",
+      "byte_matches": false,
+      "text_matches_after_crlf_normalization": true,
+      "source_sha256": "26012b6248ac92287c63aa11c28c002ed47eaf042100076a3985a342b69120f2",
+      "wheel_sha256": "83d881b3cc715fa62293b72682595092904df02e09368655b043b20822c2c855"
+    },
+    {
+      "path": "watchfiles/_rust_notify.pyi",
+      "byte_matches": false,
+      "text_matches_after_crlf_normalization": true,
+      "source_sha256": "ab915091780124414fb7d4427fb9b2e303f944cd45c12569a9fdb6d5cb3279b8",
+      "wheel_sha256": "3511891d34f2214ad438bc5d07ec4e325c6926a2b0f5d97d5e067bf990c8f6ba"
+    },
+    {
+      "path": "watchfiles/cli.py",
+      "byte_matches": false,
+      "text_matches_after_crlf_normalization": true,
+      "source_sha256": "20e0dcb5cddc070bf4363b6b72dc0dd712fd4e1302749a0cd3e4ec902fb0bd44",
+      "wheel_sha256": "ba18dd8ac35d7e34765552759621c1743f26c78ccd8dce181288e3a616c317fa"
+    },
+    {
+      "path": "watchfiles/filters.py",
+      "byte_matches": false,
+      "text_matches_after_crlf_normalization": true,
+      "source_sha256": "6d22bdb0feff009f9ed71a94ff21d42da88d3e96188fe5094f81a1d2efce4358",
+      "wheel_sha256": "0cd5bbbaa5c755d87a59703c2193e9d84791aec2a69987fbb386b6e9c7313080"
+    },
+    {
+      "path": "watchfiles/main.py",
+      "byte_matches": false,
+      "text_matches_after_crlf_normalization": true,
+      "source_sha256": "520b73b467a13dc31f2c21d86d0da68112654d611511b3de82d18534b43c339b",
+      "wheel_sha256": "b5148e2f6d87067c936cde46fdd02e21ddd23104c1daf3a3458606f6ad83aaa1"
+    },
+    {
+      "path": "watchfiles/py.typed",
+      "byte_matches": false,
+      "text_matches_after_crlf_normalization": true,
+      "source_sha256": "312e0d6b7b68f554c63f2ffcc0140cffa98d29a5f8a88a62e7ec3bfcb641fbc2",
+      "wheel_sha256": "e7f13630dc88e0cce0f131f9dc715d5e0d2249ebe5987a5d6523672555186cc8"
+    },
+    {
+      "path": "watchfiles/run.py",
+      "byte_matches": false,
+      "text_matches_after_crlf_normalization": true,
+      "source_sha256": "ecfe36154086af85ff95f250d222398c557c11bb4a23112e4571b1d83f8d4ddd",
+      "wheel_sha256": "3f18da3aa04676032cc6d42fc8eef3c833338be53c1465392c892d4f7e0ec6b3"
+    },
+    {
+      "path": "watchfiles/version.py",
+      "byte_matches": false,
+      "text_matches_after_crlf_normalization": true,
+      "source_sha256": "3515949e4677d836a6b0d295db411eb5a8081932c330c527a83595185140d964",
+      "wheel_sha256": "75b649ae322056dd9079d07b6964eee3549459a3c38d409a6d605aa363b0d525"
+    }
+  ],
+  "pypi_provenance_url": "https://pypi.org/integrity/watchfiles/1.3.0/watchfiles-1.3.0-cp310-abi3-win_amd64.whl/provenance",
+  "pypi_provenance_status": "HTTP404; no build-provenance claim"
+}

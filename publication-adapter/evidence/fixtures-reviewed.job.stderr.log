@@ -1,0 +1,21 @@
+test_actual_closed_native_watcher_is_visible_and_recovers (test_publication_wake.PublicationTests.test_actual_closed_native_watcher_is_visible_and_recovers) ... ok
+test_actual_windows_backend_and_source_identity (test_publication_wake.PublicationTests.test_actual_windows_backend_and_source_identity) ... ok
+test_atomic_rename_and_delete (test_publication_wake.PublicationTests.test_atomic_rename_and_delete) ... ok
+test_busy_capacity_reconciles_later_without_duplicate (test_publication_wake.PublicationTests.test_busy_capacity_reconciles_later_without_duplicate) ... ok
+test_deleted_publication_root_re_registers_after_recreation (test_publication_wake.PublicationTests.test_deleted_publication_root_re_registers_after_recreation) ... ok
+test_drain_returns_queued_changes (test_publication_wake.PublicationTests.test_drain_returns_queued_changes) ... ok
+test_missing_root_failure_is_visible_periodic_then_recovers (test_publication_wake.PublicationTests.test_missing_root_failure_is_visible_periodic_then_recovers) ... ok
+test_native_error_closes_and_preserves_fallback (test_publication_wake.PublicationTests.test_native_error_closes_and_preserves_fallback) ... ok
+test_nested_original_publication (test_publication_wake.PublicationTests.test_nested_original_publication) ... ok
+test_noisy_changes_do_not_hide_deadline (test_publication_wake.PublicationTests.test_noisy_changes_do_not_hide_deadline) ... ok
+test_partial_write_does_not_imply_complete_json (test_publication_wake.PublicationTests.test_partial_write_does_not_imply_complete_json) ... ok
+test_pinned_version_mismatch_visible_without_admission_gate (test_publication_wake.PublicationTests.test_pinned_version_mismatch_visible_without_admission_gate) ... ok
+test_registration_precedes_first_scan_and_overlap_deduplicates (test_publication_wake.PublicationTests.test_registration_precedes_first_scan_and_overlap_deduplicates) ... ok
+test_result_before_boundary_remains_reachable (test_publication_wake.PublicationTests.test_result_before_boundary_remains_reachable) ... ok
+test_stop_close_and_context_manager (test_publication_wake.PublicationTests.test_stop_close_and_context_manager) ... ok
+test_timeout_does_not_wait_default_rust_five_seconds (test_publication_wake.PublicationTests.test_timeout_does_not_wait_default_rust_five_seconds) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 1.085s
+
+OK
