@@ -6,7 +6,9 @@ on:
       - main
     tags:
       - "**"
-  pull_request: {}
+  pull_request:
+    branches-ignore:
+      - publication-v1.3.0
 
 env:
   COLUMNS: 120

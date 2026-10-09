@@ -1,0 +1,72 @@
+[
+  {
+    "id": "publication-276",
+    "total_ms": 115.962,
+    "publication_to_native_wait_entry_ms": 38.8827,
+    "native_wait_call_ms": 26.3092,
+    "decomposition_ms": {
+      "publication_complete_to_native_batch_return": 65.1919,
+      "native_batch_return_to_adapter_return": 0.0041,
+      "adapter_return_to_handler_start": 0.0128,
+      "handler_scan_parse": 50.7509,
+      "handler_parse_io_sum": 42.1337,
+      "scan_end_to_admission_attempt": 0.0023
+    }
+  },
+  {
+    "id": "publication-237",
+    "total_ms": 113.5609,
+    "publication_to_native_wait_entry_ms": 42.365,
+    "native_wait_call_ms": 26.5235,
+    "decomposition_ms": {
+      "publication_complete_to_native_batch_return": 68.8885,
+      "native_batch_return_to_adapter_return": 0.0033,
+      "adapter_return_to_handler_start": 0.0088,
+      "handler_scan_parse": 44.6581,
+      "handler_parse_io_sum": 37.2647,
+      "scan_end_to_admission_attempt": 0.0022
+    }
+  },
+  {
+    "id": "publication-198",
+    "total_ms": 106.0245,
+    "publication_to_native_wait_entry_ms": 38.0051,
+    "native_wait_call_ms": 25.9621,
+    "decomposition_ms": {
+      "publication_complete_to_native_batch_return": 63.9672,
+      "native_batch_return_to_adapter_return": 0.006,
+      "adapter_return_to_handler_start": 0.0123,
+      "handler_scan_parse": 42.0365,
+      "handler_parse_io_sum": 35.2871,
+      "scan_end_to_admission_attempt": 0.0025
+    }
+  },
+  {
+    "id": "publication-189",
+    "total_ms": 104.5795,
+    "publication_to_native_wait_entry_ms": 35.7234,
+    "native_wait_call_ms": 27.088,
+    "decomposition_ms": {
+      "publication_complete_to_native_batch_return": 62.8114,
+      "native_batch_return_to_adapter_return": 0.0048,
+      "adapter_return_to_handler_start": 0.0153,
+      "handler_scan_parse": 41.7454,
+      "handler_parse_io_sum": 35.3328,
+      "scan_end_to_admission_attempt": 0.0026
+    }
+  },
+  {
+    "id": "publication-254",
+    "total_ms": 104.006,
+    "publication_to_native_wait_entry_ms": 34.1148,
+    "native_wait_call_ms": 26.9946,
+    "decomposition_ms": {
+      "publication_complete_to_native_batch_return": 61.1094,
+      "native_batch_return_to_adapter_return": 0.0046,
+      "adapter_return_to_handler_start": 0.0133,
+      "handler_scan_parse": 42.8762,
+      "handler_parse_io_sum": 35.4551,
+      "scan_end_to_admission_attempt": 0.0025
+    }
+  }
+]

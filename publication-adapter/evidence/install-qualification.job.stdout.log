@@ -1,0 +1,7 @@
+Looking in links: c:\Users\hatti\Documents\Codex\2026-10-09\j\work\child-1\event-adapter\wheels
+Processing c:\users\hatti\documents\codex\2026-10-09\j\work\child-1\event-adapter\wheels\anyio-4.15.1-py3-none-any.whl (from -r C:\Users\hatti\Documents\Codex\2026-10-09\j\work\child-1\event-adapter\watchfiles\publication-adapter\requirements-windows-py312.lock (line 2))
+Processing c:\users\hatti\documents\codex\2026-10-09\j\work\child-1\event-adapter\wheels\idna-3.20-py3-none-any.whl (from -r C:\Users\hatti\Documents\Codex\2026-10-09\j\work\child-1\event-adapter\watchfiles\publication-adapter\requirements-windows-py312.lock (line 3))
+Processing c:\users\hatti\documents\codex\2026-10-09\j\work\child-1\event-adapter\wheels\typing_extensions-4.16.0-py3-none-any.whl (from -r C:\Users\hatti\Documents\Codex\2026-10-09\j\work\child-1\event-adapter\watchfiles\publication-adapter\requirements-windows-py312.lock (line 4))
+Processing c:\users\hatti\documents\codex\2026-10-09\j\work\child-1\event-adapter\wheels\watchfiles-1.3.0-cp310-abi3-win_amd64.whl (from -r C:\Users\hatti\Documents\Codex\2026-10-09\j\work\child-1\event-adapter\watchfiles\publication-adapter\requirements-windows-py312.lock (line 5))
+Installing collected packages: typing_extensions, idna, anyio, watchfiles
+Successfully installed anyio-4.15.1 idna-3.20 typing_extensions-4.16.0 watchfiles-1.3.0
